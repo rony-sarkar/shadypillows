@@ -973,6 +973,10 @@ section.tab-section {
     .footer-widget {
         margin-bottom: 50px !important;
     }
+.product-dec {
+        padding: 0 10px 20px;
+        border: 1px solid #D1D1D1;
+}
 }
 
 /***** Wide Mobile Layout *****/
